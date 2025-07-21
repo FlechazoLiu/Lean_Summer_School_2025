@@ -1,8 +1,15 @@
-# SummerClassProject 
+# Lean_Summer_School_2025
+
 
 ---
 
-This repositry is what the author have done when attending the **Algebra and Formalization Summer School** held by Peking University and Renmin University of China in summer 2025. The course comes with *two parts*. The first part in **RUC** consists of three close-related portions, which are the abstract algebra about the numbers lectured by **Shanwen Wang**, course about type theory and using lean to construct numbers by **Riccardo Brasca**, and theorem proving in lean by **student assistants from RUC and PKU**. The second part are held in **PKU**, consisting the Field Extention and Galois Theory by **Huayi Chen** and the Formalize Finite Field on Lean. 
+This repository is what the author have done when attending the *Algebra and Formalization Summer School* held by Peking University and Renmin University of China in summer 2025. 
+
+The course comes with *two parts*. 
+
+The first part in **RUC** consists of three close-related portions, which are the abstract algebra about the numbers lectured by *Shanwen Wang*, course about type theory and using lean to construct numbers by *Riccardo Brasca*, and theorem proving in lean by student assistants from RUC and PKU. 
+
+The second part are held in **PKU**, consisting the Field Extention and Galois Theory by *Huayi Chen* and the Formalize Finite Field on Lean. 
 
 
 ## Brief Introducion 
