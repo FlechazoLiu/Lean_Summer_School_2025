@@ -16,7 +16,7 @@ This course is friendly to those who try to learn **Lean** for the first time. T
 
 ### Part 1 (RUC)
 - [A Journey to the World of Numbers (Mathematics)](./Math_Notes/Numbers)
-  - Here we start from semigroup to field, constructing the numbers from $\N$ to $\R$, and we also talk about the topology, normed linear space and number theory.
+  - Here we start from semigroup to field, constructing the numbers from $\mathbb{N}$ to $\mathbb{R}$, and we also talk about the topology, normed linear space and number theory.
 - [A Journey to the World of Numbers (Lean)](./Lean_Code/Numbers)
   - In this part we try to construct numbers from $\N$ to $\R$ and even $\mathbb{C}$ in Lean.
 - [Theorem Proving in Lean](./Lean_Code/Theorem_Proving_in_Lean/)
